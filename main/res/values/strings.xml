@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="myname">Harshit Joshi</string>
+    <string name="photos">Photos</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="myemail">harshit.joshi@globallogic.com</string>
+    <string name="mobno">8979278910</string>
+    <string name="addtogroup">Add to group</string>
+    <string name="showallcomments">Show All Comments</string>
+</resources>
